@@ -1,0 +1,28 @@
+.text-blue {
+  color: blue;
+}
+
+
+.hero-content {
+    top: 16%;
+}
+
+.circle-image{
+    border-radius: 50%;
+     width: 50px; 
+     height:50px;
+     margin-bottom: 10px;
+}
+
+.button-bg-color{
+  background-color: darkblue;
+}
+
+.footer-margin{
+  margin-left: 300px;
+  margin-top: 20px;
+}
+
+.column2{
+  padding-left:  70px;
+}
